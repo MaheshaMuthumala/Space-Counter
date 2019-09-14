@@ -8,6 +8,8 @@ namespace Trim_Words
     {
         /*public static int SpaceCount(string str)
 	    {   
+        public static int SpaceCount(string str)
+	{   
 		int spaceCount = 0;
 		string inputString;
 		for (int i = 0;i < str.Length;i++)
@@ -18,6 +20,7 @@ namespace Trim_Words
 			}
 		return spaceCount;
 	    }*/
+	}
         static void Main(string[] args)
         {
             string val;
@@ -40,6 +43,13 @@ namespace Trim_Words
             //Console.WriteLine("Lenth of the String: " + strLength);
             //Console.WriteLine("Number of Spaces:" + count);
             //Console.WriteLine("Trimmed String: " + trim);
+            /*string trim = Regex.Replace( val, @"\s", "" );
+            int strLength = val.Length;
+            int count = SpaceCount(val);
+
+            Console.WriteLine("Lenth of the String: " + strLength);
+            Console.WriteLine("Number of Spaces:" + count);
+            Console.WriteLine("Trimmed String: " + trim);*/
         }
     }
 }
