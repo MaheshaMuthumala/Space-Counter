@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Maheshi\\Desktop\\Trim Words\\Trim Words.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Maheshi\\Desktop\\Trim Words\\Trim Words.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Maheshi\\Desktop\\Trim Words\\Trim Words.csproj",
+        "projectName": "Trim Words",
+        "projectPath": "C:\\Users\\Maheshi\\Desktop\\Trim Words\\Trim Words.csproj",
+        "packagesPath": "C:\\Users\\Maheshi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maheshi\\Desktop\\Trim Words\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maheshi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

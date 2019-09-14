@@ -1,0 +1,11 @@
+C:\Users\Maheshi\Desktop\Trim Words\bin\Debug\netcoreapp2.2\Trim Words.deps.json
+C:\Users\Maheshi\Desktop\Trim Words\bin\Debug\netcoreapp2.2\Trim Words.runtimeconfig.json
+C:\Users\Maheshi\Desktop\Trim Words\bin\Debug\netcoreapp2.2\Trim Words.runtimeconfig.dev.json
+C:\Users\Maheshi\Desktop\Trim Words\bin\Debug\netcoreapp2.2\Trim Words.dll
+C:\Users\Maheshi\Desktop\Trim Words\bin\Debug\netcoreapp2.2\Trim Words.pdb
+C:\Users\Maheshi\Desktop\Trim Words\obj\Debug\netcoreapp2.2\Trim Words.csprojAssemblyReference.cache
+C:\Users\Maheshi\Desktop\Trim Words\obj\Debug\netcoreapp2.2\Trim Words.csproj.CoreCompileInputs.cache
+C:\Users\Maheshi\Desktop\Trim Words\obj\Debug\netcoreapp2.2\Trim Words.AssemblyInfoInputs.cache
+C:\Users\Maheshi\Desktop\Trim Words\obj\Debug\netcoreapp2.2\Trim Words.AssemblyInfo.cs
+C:\Users\Maheshi\Desktop\Trim Words\obj\Debug\netcoreapp2.2\Trim Words.dll
+C:\Users\Maheshi\Desktop\Trim Words\obj\Debug\netcoreapp2.2\Trim Words.pdb
